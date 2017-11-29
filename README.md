@@ -4,9 +4,9 @@
 ## Description
 This is a website that describes me and gives links to the projects that I have worked on
 ## Setup/Installation Requirements
-Load the URL on your browser
-run
-Requirements
+Load the URL on your browser <br />
+run<br />
+Requirements <br />
 * Good internet connection
 * A browser(mozilla firefox, chrome)
 ## Technologies Used
