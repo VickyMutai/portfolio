@@ -56,29 +56,6 @@ a:hover {
 a:active {
     color: blue;
 }
-@media (max-width: 1080px) {
-  .head{
-    width: 80px;
-    heigth: 50px;
-    margin-left: 20px;
-  }
-  .me{
-    height: 50px;
-    width: 50px;
-    margin-left: 20px;
-  }
-  .screenshot{
-    height: 100px;
-    width: 180px;
-    margin-left: 0px;
-  }
-  .footer{
-    margin-top: 50px;
-    padding-top: 20px;
-    width: 200px;
-    margin-left: 0px;
-    color: black;
-    background-color: gray;
-    border-top: solid;
-  }
+.bar{
+  color: #BB4513;
 }
