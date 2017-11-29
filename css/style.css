@@ -54,16 +54,16 @@ a:hover {
 a:active {
     color: blue;
 }
-@media screen and (max-width: 480px) {
+@media (max-width: 1080px) {
   .head{
-    width: 200px;
-    heigth: 200px;
-    margin-left: 50px;
+    width: 80px;
+    heigth: 50px;
+    margin-left: 20px;
   }
   .me{
     height: 50px;
     width: 50px;
-    margin-left: 150px;
+    margin-left: 20px;
   }
   .screenshot{
     height: 100px;
