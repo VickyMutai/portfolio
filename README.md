@@ -14,8 +14,8 @@ Created with
 * CSS
 * HTML
 ## Support and contact details
-Incase of an emergency contact me on:
-    Phone Number: +254716889165
+Incase of an emergency contact me on: <br />
+    Phone Number: +254716889165 <br />
     Email: vicky.mutai96@gmail.com
 ### License
 Licensed by [MIT](https://choosealicense.com/licenses/mit)
