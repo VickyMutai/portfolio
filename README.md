@@ -18,5 +18,5 @@ Incase of an emergency contact me on:
     Phone Number: +254716889165
     Email: vicky.mutai96@gmail.com
 ### License
-Licensed by https://choosealicense.com/licenses/mit
+Licensed by MIT(https://choosealicense.com/licenses/mit)
 Copyright (c) 2017 Victoria Mutai
