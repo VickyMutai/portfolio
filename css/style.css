@@ -1,10 +1,23 @@
 .head{
   width: 1000px;
   heigth: 200px;
+  margin-left: 50px;
 }
 .header{
   color: white;
 }
 body{
   background-color: black;
+}
+.container{
+  background-color: gray;
+}
+.me{
+  height: 200px;
+  width: 200px;
+  margin-left: 400px;
+}
+#about{
+  color: black;
+  margin-left: 20px;
 }
