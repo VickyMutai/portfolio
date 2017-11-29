@@ -4,13 +4,14 @@
   margin-left: 50px;
 }
 .header{
-  color: black;
+  color: white;
 }
 body{
-  background-color: black;
+  background-image: url(../img/wood3.jpeg);
+  background-size: cover;
 }
-.container{
-  background-color: gray;
+.container, .jumbotron{
+  background-color: black;
 }
 .me{
   height: 200px;
@@ -18,7 +19,7 @@ body{
   margin-left: 300px;
 }
 #about{
-  color: black;
+  color: white;
   margin-left: 20px;
   margin-top: 50px;
 }
@@ -35,9 +36,10 @@ body{
   padding-top: 20px;
   width: 1100px;
   margin-left: 0px;
-  color: black;
-  background-color: gray;
-  border-top: solid;
+  color: white;
+  background-color: black;
+  border-top: dotted;
+  font-family: cursive;
 }
 h2.footer{
   padding-left: 80px;
@@ -46,7 +48,7 @@ a:link {
     color: black;
 }
 a:visited {
-    color: white;
+    color: #8B4513;
 }
 a:hover {
     color: hotpink;
