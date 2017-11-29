@@ -42,3 +42,15 @@ body{
 h2.footer{
   padding-left: 80px;
 }
+a:link {
+    color: black;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
